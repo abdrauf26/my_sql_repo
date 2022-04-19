@@ -1,0 +1,1 @@
+CREATE DATABASE persoanl_assets;
