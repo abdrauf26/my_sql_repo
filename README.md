@@ -15,7 +15,8 @@
 - [View My SQL File (Assets Types)](https://github.com/abdrauf26/my_sql_repo/blob/main/my_sql_personal_assets_types.sql)
 
 ## Create, Drop and Use a Database
-![image](https://user-images.githubusercontent.com/96287600/163979083-409e4169-f005-459e-aa30-93bf4ca0d799.png)
+![image](https://user-images.githubusercontent.com/96287600/163979188-801035f3-ec07-4b44-a87e-8d6a58f37622.png)
+
 
 
 
