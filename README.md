@@ -9,7 +9,10 @@
 ## Setup 🖥️
 - [MYSQL Workbench](https://www.mysql.com/products/workbench/)
 
-- [My SQL File (Assets Types)](https://github.com/abdrauf26/my_sql_repo/blob/main/my_sql_personal_assets_types.sql)
+
+## Made with ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+- [View My SQL File (Assets Types)](https://github.com/abdrauf26/my_sql_repo/blob/main/my_sql_personal_assets_types.sql)
 
 
 ## Social 📧 
